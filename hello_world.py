@@ -1,2 +1,5 @@
-print("Hello from VS Code and bye from repository")
+def mean (num):
+    return sum(num) / len(num)
+
+print("Mean function loaded")
 
